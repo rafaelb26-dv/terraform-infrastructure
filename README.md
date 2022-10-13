@@ -1,6 +1,6 @@
 # terraform-infrastructure-
 
-project to provision an infrastructure in the AWS cloud
+project to provision an infrastructure in the AWS cloud (Alura Cursos)
 
 run this project using the commands:
 
